@@ -1,0 +1,10 @@
+{
+    "name": "Legendary G-Core Headgear",
+    "description": "Special G-core gel, protection of cheekbones, protection of ears and chin",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/15.png",
+    "type": "gear",
+    "subtype": "headgear",
+    "rarity": "legendary",
+    "health": 4,
+    "endurance": 1
+}

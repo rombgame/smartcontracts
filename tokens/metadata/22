@@ -1,0 +1,9 @@
+{
+    "name": "Epic Coach",
+    "description": "Epic coach",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/22.png",
+    "type": "coach",
+    "rarity": "epic",
+    "boost 1": "accuracy",
+    "boost 2": "strength"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "Rare Polyurethane Headgear",
+    "description": "Polyurethane foam, helmet for practicing blows, ear and chin protection",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/13.png",
+    "type": "gear",
+    "subtype": "headgear",
+    "rarity": "rare",
+    "health": 2
+}

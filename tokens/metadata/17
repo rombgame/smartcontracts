@@ -1,0 +1,9 @@
+{
+    "name": "Rare Cast Mouthguard",
+    "description": "Cast, single-layer mouth guard, low side height",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/17.png",
+    "type": "gear",
+    "subtype": "mouthguard",
+    "rarity": "rare",
+    "health": 2
+}

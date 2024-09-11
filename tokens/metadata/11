@@ -1,0 +1,10 @@
+{
+    "name": "Legendary Leather Gloves",
+    "description": "synthetic leather, foam padded, reinforcement on each finger",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/11.png",
+    "type": "gear",
+    "subtype": "gloves",
+    "rarity": "legendary",
+    "accuracy": 4,
+    "strength": 4
+}

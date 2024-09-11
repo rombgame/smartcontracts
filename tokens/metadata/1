@@ -1,0 +1,16 @@
+{
+    "name": "Common Capoeira Hero",
+    "description": "Common Capoeira Hero",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/1.png",
+    "type": "player",
+    "sex": "male",
+    "rarity": "common",
+    "skin": "white",
+    "style": "capoeira",
+    "health": 27,
+    "accuracy": 10,
+    "speed": 30,
+    "endurance": 37,
+    "strength": 25,
+    "level": 1
+}

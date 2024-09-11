@@ -1,0 +1,9 @@
+{
+    "name": "Rare Coach",
+    "description": "Rare coach",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/21.png",
+    "type": "coach",
+    "rarity": "rare",
+    "boost 1": "endurance",
+    "boost 2": "health"
+}

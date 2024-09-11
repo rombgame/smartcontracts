@@ -1,0 +1,16 @@
+{
+    "name": "Rare Boxing Hero",
+    "description": "Rare Boxing Hero",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/3.png",
+    "type": "player",
+    "sex": "male",
+    "rarity": "rare",
+    "skin": "white",
+    "style": "boxing",
+    "health": 32,
+    "accuracy": 10,
+    "speed": 33,
+    "endurance": 40,
+    "strength": 37,
+    "level": 1
+}

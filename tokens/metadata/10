@@ -1,0 +1,10 @@
+{
+    "name": "Epic Leather Gloves",
+    "description": "synthetic leather, gel padded, thumb protection",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/10.png",
+    "type": "gear",
+    "subtype": "gloves",
+    "rarity": "epic",
+    "accuracy": 3,
+    "strength": 3
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Legendary MMA Hero",
+    "description": "Legendary MMA Hero",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/7.png",
+    "type": "player",
+    "sex": "male",
+    "rarity": "legendary",
+    "skin": "white",
+    "style": "mma",
+    "health": 42,
+    "accuracy": 10,
+    "speed": 43,
+    "endurance": 52,
+    "strength": 48,
+    "level": 1
+}

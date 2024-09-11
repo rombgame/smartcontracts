@@ -1,0 +1,9 @@
+{
+    "name": "Epic Dental Mouthguard",
+    "description": "Cast, single-layer mouth guard, average side height",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/18.png",
+    "type": "gear",
+    "subtype": "mouthguard",
+    "rarity": "epic",
+    "health": 3
+}

@@ -1,0 +1,10 @@
+{
+    "name": "Common Leather Gloves",
+    "description": "synthetic leather, foam padded",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/8.png",
+    "type": "gear",
+    "subtype": "gloves",
+    "rarity": "common",
+    "accuracy": 0,
+    "strength": 0
+}

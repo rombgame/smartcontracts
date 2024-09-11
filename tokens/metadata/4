@@ -1,0 +1,16 @@
+{
+    "name": "Epic Kickboxing Hero",
+    "description": "Epic Kickboxing Hero",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/4.png",
+    "type": "player",
+    "sex": "male",
+    "rarity": "epic",
+    "skin": "white",
+    "style": "kickboxing",
+    "health": 35,
+    "accuracy": 10,
+    "speed": 40,
+    "endurance": 45,
+    "strength": 42,
+    "level": 1
+}

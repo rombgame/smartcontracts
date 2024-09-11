@@ -1,0 +1,9 @@
+{
+    "name": "Common Coach",
+    "description": "Common Coach",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/20.png",
+    "type": "coach",
+    "rarity": "common",
+    "boost 1": "speed",
+    "boost 2": "strength"
+}

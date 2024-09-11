@@ -1,0 +1,9 @@
+{
+    "name": "Legendary Coach",
+    "description": "Legendary Coach",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/23.png",
+    "type": "coach",
+    "rarity": "legendary",
+    "boost 1": "health",
+    "boost 2": "speed"
+}

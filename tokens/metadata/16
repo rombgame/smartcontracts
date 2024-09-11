@@ -1,0 +1,9 @@
+{
+    "name": "Common Cast Mouthguard",
+    "description": "Cast, single-layer mouth guard, minimal dental protection",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/16.png",
+    "type": "gear",
+    "subtype": "mouthguard",
+    "rarity": "common",
+    "health": 0
+}

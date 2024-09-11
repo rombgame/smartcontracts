@@ -1,0 +1,9 @@
+{
+    "name": "Legendary Gel Mouthguard",
+    "description": "Gel and rubber, single-layer mouth guard, external high wall to protect teeth",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/19.png",
+    "type": "gear",
+    "subtype": "mouthguard",
+    "rarity": "legendary",
+    "health": 4
+}

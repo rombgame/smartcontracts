@@ -1,0 +1,9 @@
+{
+    "name": "Common Vinyl Headgear",
+    "description": "Vinyl, helmet for practicing blows, ear protection",
+    "image_url": "https://ipfs.io/ipfs/QmRKgwVDVJfAveDeThoFEDjK3ym9Bhn9Vn53AcUdDvnEDV/12.png",
+    "type": "gear",
+    "subtype": "headgear",
+    "rarity": "common",
+    "health": 0
+}
